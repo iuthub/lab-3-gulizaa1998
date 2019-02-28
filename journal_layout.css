@@ -1,0 +1,53 @@
+body{
+     background: url(blur.jpg) no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+     background-size: cover;
+
+}
+.one{
+	
+	padding:5px;
+	text-align: right;
+	background-color:  #A8F0F0 ;
+
+
+}
+.two{
+    font-size:14pt;
+	padding:5px;
+	
+}
+.three{
+	border: 4px  #C2E9E9 solid;
+	background-color:#E8FBFB;
+	padding:5px;
+	margin-top: 10px;
+    height: 300px;
+}
+.date{
+	border-bottom: 4px dashed ;
+	border-bottom: 2px 	  
+	width: 300px;
+
+}
+.green{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    float: right;
+
+}
+img.spat{
+	float:right;
+}
+.frnds{
+	border:5px #20B2AA solid ;
+	width:150px;
+	background-color:#87CEFA;
+    padding-left: 5px;
+    margin-top:8px;
+    
+}
